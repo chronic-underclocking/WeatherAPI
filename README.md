@@ -1,0 +1,1 @@
+Software testing course assignment, consists of a Java console application that wraps a weather reporting website's API, parsing received JSON files and providing useful info to the user. Various tests were then methodically designed and mocking and unit testing frameworks were used to test various functionalities.
